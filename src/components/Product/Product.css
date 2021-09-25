@@ -1,0 +1,29 @@
+.meal img{
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.meal{
+    border-bottom: px solid coral;
+    margin-top: 20px;
+    border: 2px solid grey;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.foodDetails{
+    line-height: 15px;
+    color: white;
+}
+.meal button{
+    margin-bottom: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    background-color: mediumturquoise;
+    border: 1px solid coral;
+    border-radius: 10px;
+    font-weight: 700px;
+    color: white;
+    cursor: pointer;
+}

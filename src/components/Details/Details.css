@@ -1,0 +1,7 @@
+.details{
+    color: white;
+}
+.details ul li{
+    list-style: none;
+    margin-right: 40px;
+}

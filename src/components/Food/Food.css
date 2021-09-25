@@ -1,0 +1,28 @@
+.food{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.food-area{
+    border-left: 2px solid coral;
+    padding-left: 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.details{
+    text-align: center;
+}
+.input-area{
+    background-color:rgba(128, 128, 128, 0.534);
+    text-align: center;
+    padding: 10px;
+}
+.input-area input{
+    width: 500px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+.food-details h1{
+    color: white;
+    margin-left:70px ;
+}
